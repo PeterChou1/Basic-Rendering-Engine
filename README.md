@@ -4,7 +4,7 @@ I've learned alot about Computer Graphics in this course. The repository is sepa
 
 
 # Assignment 1
-Assignment 1 had us implementing a basic 2d rendering to get to understand how 2d light transport works.
+Assignment 1 had us implementing a basic 2d rendering to get to understand how 2d light transport works. <br/>
 Features:
 - 2d Light rendering 
 - Basic Sphere/Line Intersection
