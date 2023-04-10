@@ -11,7 +11,7 @@ Features:
 - Refractions
 
 # Assignment 2
-Assignment 2 had us implementing a basic 3d ray tracer using simple ray casting.
+Assignment 2 had us implementing a basic 3d ray tracer using simple ray casting. <br/>
 Features:
 - 3d Ray tracing
 - ray/Sphere/Cylinder/Square Intersection
@@ -20,7 +20,7 @@ Features:
 - Reflections
 
 # Assignment 3
-Assignment 3 had us extend on the raytracer we built in Assignment 2
+Assignment 3 had us extend on the raytracer we built in Assignment 2 <br/>
 Features:
 - Anti Aliasing
 - Texture Maps
@@ -30,7 +30,7 @@ Features:
 - Normal Mapping
 
 # Assignment 4
-Assignment 4 In this assigment we implemented a path tracer to generated photo realistic images
+Assignment 4 In this assigment we implemented a path tracer to generated photo realistic images <br/>
 Features:
 - Path tracer
 - Reflection Refraction
