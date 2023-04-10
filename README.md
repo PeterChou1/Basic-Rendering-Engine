@@ -1,4 +1,6 @@
-# This Repository is course work for the Computer Graphics course. It is separate to 4 folders representing each assignment
+# Computer Graphics Course Work
+This repository represent course work for the Computer Graphics Course at UTSC. 
+I've learned alot about Computer Graphics in this course. The repository is separated in 4 folders which represent the different computer graphics concepts implemented over the semester.
 
 
 # Assignment 1
@@ -28,7 +30,7 @@ Features:
 - Normal Mapping
 
 # Assignment 4
-Assignment 4 In this assigment we implemented a path tracer to generated phto realistic images
+Assignment 4 In this assigment we implemented a path tracer to generated photo realistic images
 Features:
 - Path tracer
 - Reflection Refraction
