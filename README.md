@@ -24,6 +24,7 @@ Assignment 3 had us extend on the raytracer we built in Assignment 2 <br/>
 Features:
 - Anti Aliasing
 - Texture Maps
+- Multi-threading
 - Area Light Sources
 - Refractive Objects
 - Ray Marching
